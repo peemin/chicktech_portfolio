@@ -13,3 +13,8 @@ Template for the students to create a portfolio for the workshops they attend.
    - Upload the chicktech-2018-2019 folder
      - To save the folder: scrow down to the bottom of the page and enter a commit change message and select "commit change"
    - Optional: upload the index.html file (don't forget to commit the change)
+   
+## View Your Page
+1. Open a new browser tab and enter in
+   - <username>.github.io - Your Personal landing page
+   - <username>.github.io/chicktech-2018-2019/ - Your Personal ChickTech 2018 - 2019 landing Page
