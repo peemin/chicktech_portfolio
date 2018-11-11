@@ -11,7 +11,7 @@ Template for the students to create a portfolio for the workshops they attend.
    For detail step by step directions https://pages.github.com/
    - Create a new repository named username.github.io replace username with the student's username
    - Upload the chicktech-2018-2019 folder
-     - To save the folder: scrow down to the bottom of the page and enter a commit change message and select "commit change"
+     - To save the folder: scroll down to the bottom of the page and enter a commit change message and select "commit change"
    - Optional: upload the index.html file (don't forget to commit the change)
    
 ## View Website
