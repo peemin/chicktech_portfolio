@@ -1,6 +1,7 @@
 # chicktech_portfolio
 Template for the students to create a portfolio for the workshops they attend.
 
+YouTube video direction https://www.youtube.com/watch?v=z11O18SaX6g&feature=youtu.be
 ## Prerequisite
 1. Ensure students have an email account that they can access. They will need to confirm their email address when creating a github account
 2. Download this repository 
